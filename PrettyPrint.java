@@ -1,3 +1,17 @@
+/*
+
+* Print concentric rectangular pattern in a 2d matrix. 
+* Let us show you some examples to clarify what we mean.
+* 4 4 4 4 4 4 4 
+* 4 3 3 3 3 3 4 
+* 4 3 2 2 2 3 4 
+* 4 3 2 1 2 3 4 
+* 4 3 2 2 2 3 4 
+* 4 3 3 3 3 3 4 
+* 4 4 4 4 4 4 4 
+*/
+
+
 public class PrettyPrint {
 	public ArrayList<ArrayList<Integer>> prettyPrint(int N) {
 	   
